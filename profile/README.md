@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/purpelab.png" alt="Logo" width="500">
+  <img src="/assets/purpelab.png" alt="Logo" width="500">
 </div>
 
 # Bienvenue sur Purpelab 👋
