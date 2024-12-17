@@ -23,8 +23,8 @@ Nous écrivons régulièrement des articles sur **Medium** 📚, où nous partag
 - **Géopolitique** 🌍 : Les relations internationales et leur influence sur la cybersécurité et les attaques informatiques.
 
 ### Suivez nos articles :
-- [amaz974](https://medium.com/@vamaz974)
-- [CupOfCoffeeX](https://medium.com/@CupOfCoffeeX)
+- [amaz974](https://medium.com/@amaz974)
+- [CupOfCoffeeX](https://medium.com/@sraebisch)
 
 ## Comment contribuer 🤝
 
