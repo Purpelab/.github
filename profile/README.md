@@ -4,7 +4,7 @@
 
 # Bienvenue sur Purpelab 👋
 
-Nous sommes de des passionnés de **Purple Team** 🟣, et nous croyons fermement qu'il est essentiel de tester les règles de détection pour s'améliorer et mieux comprendre leur fonctionnement. Notre objectif est d'explorer et de perfectionner les méthodes de détection tout en testant et en contournant les mécanismes de sécurité pour renforcer la cybersécurité 🔐.
+Nous sommes des passionnés de **Purple Team** 🟣, et nous croyons fermement qu'il est essentiel de tester les règles de détection pour s'améliorer et mieux comprendre leur fonctionnement. Notre objectif est d'explorer et de perfectionner les méthodes de détection tout en testant et en contournant les mécanismes de sécurité pour renforcer la cybersécurité 🔐.
 
 ## Notre premier projet : ForgeLab ⚙️
 
